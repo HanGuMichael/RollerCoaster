@@ -1,0 +1,131 @@
+﻿  hw1.cpp
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(371,30): warning C4018: '>=': signed/unsigned mismatch
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(382,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(392,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(392,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(392,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(392,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(392,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(392,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(392,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(392,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(392,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(718,12): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(718,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(718,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(718,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(718,22): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(718,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(719,12): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(719,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(719,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(719,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(719,22): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(719,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(720,12): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(720,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(720,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(720,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(720,22): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(720,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(721,12): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(721,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(721,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(721,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(721,22): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(721,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(723,25): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(723,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(723,34): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(723,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(723,44): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(723,44): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(743,12): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(743,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(743,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(743,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(743,22): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(743,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(744,12): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(744,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(744,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(744,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(744,22): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(744,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(745,12): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(745,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(745,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(745,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(745,22): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(745,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(746,12): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(746,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(746,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(746,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(746,22): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(746,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(748,23): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(748,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(748,34): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(748,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(768,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(772,46): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(772,46): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(772,59): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(772,59): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(772,72): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(772,72): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(824,41): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(832,26): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(832,52): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(832,78): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(833,26): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(833,52): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(833,78): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(834,26): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(834,52): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(834,78): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(847,23): warning C4018: '<': signed/unsigned mismatch
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\hw1.cpp(878,23): warning C4018: '<': signed/unsigned mismatch
+  jpeg.lib(jerror.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+  hw1.vcxproj -> F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\Bin\Debug\hw1.exe

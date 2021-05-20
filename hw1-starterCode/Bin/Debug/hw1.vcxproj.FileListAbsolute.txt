@@ -1,0 +1,2 @@
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\Bin\Debug\hw1.exe
+F:\CSCI420\assign1_coreOpenGL_starterCode\hw1-starterCode\Bin\Debug\hw1.pdb
